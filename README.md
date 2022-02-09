@@ -10,3 +10,4 @@ MVC에 대한 이해, JSP와 친해지기 위한 관리자페이지 cf. Bootstra
 5. Android Studio와의 연결을 통한 관리자페이지 구현 스터디
 
 *부트스트랩 템플릿 AdminLTE3은 adminlte.io의 라이선스 기반을 따름.*
+*용량의 문제로 WEB-INF에서 css와 js파일을 제외함.*
